@@ -1,5 +1,5 @@
 
-<h1>👾<i>Olá! Eu sou o Gabriel</i>👾</h1>
+<h1>👾<b><i>Olá! Eu sou o Gabriel</i></b>👾</h1>
 
 <H2>📱<i>Formas de Contato</i>💬</h2>
 
@@ -13,6 +13,8 @@
 <!--Painel de Status-->
 ![DabiXxz GitHub stats](https://github-readme-stats.vercel.app/api?username=DabiXxz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DabiXxz&layout=compact&langs_count=7&theme=radical)
+<a href="https://github.com/DabiXxz">
+
 <h1></h1>
 
 <h2>💻<i>Tecnologias que Útilizo</i><h2>
