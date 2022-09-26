@@ -14,7 +14,9 @@
 ![DabiXxz GitHub stats](https://github-readme-stats.vercel.app/api?username=DabiXxz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DabiXxz&layout=compact&langs_count=7&theme=radical)
 <h1></h1>
-![Snake animation](https://github.com/DabiXxz/DabiXxz/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/DabiXxz/DabiXxz/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/DabiXxz">
+
 <h2>💻<i>Tecnologias que Útilizo</i><h2>
 <div style="display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
