@@ -12,9 +12,7 @@
 <!--Painel de Status-->
 ![DabiXxz GitHub stats](https://github-readme-stats.vercel.app/api?username=DabiXxz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DabiXxz&layout=compact&langs_count=7&theme=radical)
-
-<h2></h2>
-![Snake animation](https://github.com/DabiXxz/DabiXxz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
 
 <h2>💻<i>Tecnologias que Útilizo</i><h2>
 <div style="display: inline_block"><br/>
